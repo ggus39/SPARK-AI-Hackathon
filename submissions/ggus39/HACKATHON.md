@@ -1,7 +1,7 @@
 # strict-Habit-Coach
 
 GitHub User: ggus39
-ProjectName: strict-Habit-Coach
+ProjectName: Habit-Coach
 Track: LLM应用赛道
 ProjectDescription: 本项目旨在通过 AI 裁判 的无情审计与 智能合约 的强制执行，彻底解决个人自律难题。用户质押代币，AI 监控产出，敷衍即惩罚。自律获得Strict代币奖励。
 Github Repo Link: https://github.com/ggus39/Strict-Habit-Coach
